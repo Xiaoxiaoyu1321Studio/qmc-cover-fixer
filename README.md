@@ -79,3 +79,8 @@ qq_cover_fixer/
   gui.py                   PyQt5 + qfluentwidgets 界面
 requirements.txt
 ```
+
+## 许可证
+
+本项目采用 [MIT 许可证](LICENSE)，版权所有 © 2026 Xiaoxiaoyu1321Studio。
+
