@@ -1,5 +1,7 @@
 # QQ 音乐封面修复器 (qmc-cover-fixer)
 
+> 💡 本项目由 **DeepSeek Harness** 开发。
+
 为 QQ 音乐解密后丢失专辑图的本地音频（mp3 / flac / m4a / ogg）自动补回封面：
 
 **提取元信息 → 查询 QQ 音乐 API → 下载专辑封面 → 复制到目标目录并嵌入封面**
